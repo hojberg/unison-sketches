@@ -1,4 +1,4 @@
-# unison-sketches
+# Unison Sketches
 
 PRs and explorations
 
